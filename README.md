@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on minishell project at School 42 in Heilbronn
-- 🌱 I’m currently learning C and C++
-- 📫 How to reach me: lporoshi@student.42heilbronn.de
-
+- 🇩🇪 Live in Germany
+- 🔭 Study at 42 Heilbronn at the moment.
+- 🌱 In the process of becoming a good programmer
+- 🤓 Like C++ and love C
