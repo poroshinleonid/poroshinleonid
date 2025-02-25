@@ -3,5 +3,6 @@
 - 🌱 Striving to become a great programmer
 - ❤️ FOSS
 - 🧐 C / C++
+- 🧐 Python
+- 🧐 JavaScript
 - 🐧 UNIX enthusiast
-- 👀 Excited about AI and blockchain
